@@ -1,6 +1,9 @@
 # Well Bee - Health & Well-being Platform 🐝
 
 Well Bee is a comprehensive health and well-being platform designed to support and foster a healthy environment for users. The platform combines mental health support, physical wellness tracking, and personalized recommendations to provide a holistic approach to well-being.
+Live link : https://wellbee-jade.vercel.app/
+
+Demo login: sigireddyviswesh@gmail.com pass:1234
 
 ![Screenshot 2024-11-05 131110](https://github.com/user-attachments/assets/7adc583a-edfd-4724-80c9-241d0373be9e)
 
