@@ -88,7 +88,7 @@ Wellbee is a comprehensive health and wellness platform that supports both physi
 
 async function runChat(userInput) {
     const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
-    const model = genAI.getGenerativeModel({ model: "gemini-pro" });
+    const model = genAI.getGenerativeModel({ model: "gemini-1.5-pro" });
 
     const generationConfig = {
         temperature: 0.8,

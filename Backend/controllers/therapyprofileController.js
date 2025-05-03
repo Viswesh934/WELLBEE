@@ -147,7 +147,7 @@ const deleteTherapistProfile = async (req, res) => {
 // Function to handle AI chat interactions
 async function runChat(userInput) {
     const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY);
-    const model = genAI.getGenerativeModel({ model: "gemini-pro" });
+    const model = genAI.getGenerativeModel({ model: "gemini-1.5-pro" });
 
     const generationConfig = {
         temperature: 0.9,
